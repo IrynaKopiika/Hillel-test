@@ -4,17 +4,22 @@
     grid-template-columns: 2fr 4fr;
 }
 
-.left{
+.left {
     position: initial;
     background-color: blanchedalmond;
     padding: 20px;
+    font-size: small;
 
 }
-.right{
+.right {
     position: initial;
     background-color: antiquewhite ;
     padding: 20px;
+    font-size: small;
 }
-.contact{
+.contact {
     font-size: large;
+}
+.skills {
+    font-size: larger;
 }
